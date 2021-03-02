@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word counter</title>
+    <script src="index.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body style="background-color: rgba(220, 220, 220, 0.521);">
+    <p class="WordClass">Words:</p>
+
+    <p id="WordCountText" class="WordClassN">0  </p>
+
+    <br><br>
+
+    <p class="WordClass">Letters:</p>
+    <p id="LetterCountShower" class="WordClassN2"> 0 </p>
+
+    <br><br>
+
+    <p class="WordClass">Sentences:</p>
+    <p id="SentenceCountShower" class="WordClassN3"> 0 </p>
+
+
+<h1 class="Heading">Word counter</h1>
+<p class="Info">This website will count how many words you typed in. </p>
+
+
+<textarea  id="textArea"  onkeypress="CountWords()" class="writing">
+</textarea>
+</body>
+</html>

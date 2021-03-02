@@ -1,0 +1,58 @@
+
+.Heading{
+    text-decoration: underline overline dotted rgb(77, 64, 199);
+    padding-left: 5%;
+    color: rgb(38, 56, 56);
+  
+}
+.Info{
+    font: 20px sans-serif;
+    
+
+}
+.writing{
+    min-width: 600px;
+    min-height: 200px;
+    max-width: 1500px;
+    max-height: 700px;
+    width: 800px;
+    height: 400px;
+    background-color:lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+.WordClass{
+    
+    
+    left: 90%;
+    position: absolute;
+    font-size: 20px;
+
+
+}
+.WordClassN{
+    
+    left: 93%;
+    position: absolute;
+    font-size: 20px;
+
+
+}
+.WordClassN2{
+    
+    left: 93.3%;
+    position: absolute;
+    font-size: 20px;
+
+
+}
+.WordClassN3{
+    
+    left: 94.5%;
+    position: absolute;
+    font-size: 20px;
+
+
+}
