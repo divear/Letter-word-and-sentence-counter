@@ -1,2 +1,2 @@
-# Word-Counter
+# Word-letter-and-sentence-Counter
 
